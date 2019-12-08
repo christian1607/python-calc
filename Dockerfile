@@ -12,3 +12,6 @@ CMD ["python", "/app/main.py"]
 
 EXPOSE 8081
 
+
+
+
